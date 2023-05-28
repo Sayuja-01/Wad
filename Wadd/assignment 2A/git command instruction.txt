@@ -1,0 +1,27 @@
+git command instruction
+
+1.vs code
+2.git 
+3.github account
+4.open VScode
+	4.1open folder
+	4.2open terminal   a)mkdir Part-A
+				 b)cd Part-A
+				 c)git --version
+				 d)
+5.open github and create new repository
+	name-wadassignment2a
+	description-github assignment 2a
+	public
+	commit
+6.vscode
+create new file in Part-A as file1.txt with any content in it
+7.git init
+8.git add .
+9.git status
+10. copy github repository link https and paste in vs
+11. git remote add origin "url of github rep"
+12.git commit -m "first commit"
+13.git status
+14.git push -u origin master
+15.go to github account and refersh you will see file
